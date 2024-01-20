@@ -1,0 +1,10 @@
+VANDEPOELE Enzo / MICALLEF John / AHOUANDOGBO Amen
+
+La disparité des tâches est total, chacun à travaillé autant que les autres.
+Comme débattus cette après-midi (08/01/2024) :
+	- Le code contient les le script de base généré via Workbench ainsi que les données et les jeux d'essais;
+	- Les nombreuses tables sont du au fait qu'elle soit pour la plupart facultavtives (et permet également de réduire les répétitions);
+	- Les CHECK ne sont pas présents étant donné le bug que dont l'on vous a fait part.
+La totalité des livrables demandé devrait être présent dans le rapport si aucuns oublies n'as était fait.
+
+Nous restons à votre disposition si vous avez d'autres questions.
